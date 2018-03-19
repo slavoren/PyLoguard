@@ -3,8 +3,8 @@
 	<logdir>c:\a\logs</logdir>
 	<mail>
 		<alias>admin</alias>
-		<email>jiri.hlineny@schenker.cz</email>
-		<email>martin.hodny@idc.cz</email>
+		<email>admin1@domain.cz</email>
+		<email>admin2@domain.cz</email>
 	</mail>
 	<mail>
 		<alias>support</alias>
